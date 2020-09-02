@@ -1,13 +1,24 @@
 ### Hi, I'm Ana 👏🌿🍁
 ## Im a Baby Front-End Developer from Galicia 🌊🌊
 
-
-* I am a historian looking for my way to become a programmer🚀💻  
-* Right now I'm working on my skills from home 🏡🔥
+* Right now I'm working on my skills from home 🏡🚀🔥
 
 ## Technologies
+* HTML5, CSS3, CSS Grid, SASS.
+* JavaScript. 
+* React.
+* Git.
+* Atom.
+* Gulp.
+
 ## Soft Skills
+* Communication🎤
+* Teamwork🙌 
+* Adaptability🌾
+* Initiative🌠
+
 ## Get in Touch!
+
 
 
 <!--
