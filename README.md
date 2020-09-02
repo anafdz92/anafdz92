@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, Iḿ Ana 🌿🍁
+## Im a Baby Front-End Developer from Galicia 🌊🌊
+
+
+* I am a historian looking for my way to become a programmer🚀💻  
+* Right now I'm working on my skills from home 🏡🔥
+
+## Technologies
+## Soft Skills
+## Get in Touch!
+
 
 <!--
 **anafdz92/anafdz92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
