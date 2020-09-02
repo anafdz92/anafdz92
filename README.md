@@ -1,4 +1,4 @@
-### Hi, Iḿ Ana 🌿🍁
+### Hi, I'm Ana 🌿🍁
 ## Im a Baby Front-End Developer from Galicia 🌊🌊
 
 
