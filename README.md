@@ -1,7 +1,7 @@
 ### Hi, I'm Ana 👏🌿🍁
 ## Im a Baby Front-End Developer from Galicia 🌊🌊
 
-* Right now I'm working on my skills from home 🏡🚀🔥
+* Right now I'm working on my skills at home 🏡🚀🔥
 
 ## Technologies
 * HTML5, CSS3, CSS Grid, SASS.
